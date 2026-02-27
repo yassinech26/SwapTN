@@ -9,5 +9,5 @@ public class SwapTnApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SwapTnApplication.class, args);
 	}
-
+	
 }
